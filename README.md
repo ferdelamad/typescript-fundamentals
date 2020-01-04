@@ -1,3 +1,5 @@
+Fer version
+
 <table align="center">
   <tr>
     <td align="center">
@@ -14,7 +16,7 @@
 <p align='center'>
   <a href="https://mike.works" target='_blank'>
     <img height=40 src='https://assets.mike.works/img/login_logo-33a9e523d451fb0d902f73d5452d4a0b.png' />
-  </a> 
+  </a>
 </p>
 <p align='center'>
   <a href="https://mike.works/course/typescript-fundamentals-7832c19" target='_blank'>
@@ -41,7 +43,8 @@ This is the example project used for the <a title="Mike.Works" href="https://mik
 ## Dependencies
 
 Make sure your system is set up with
-- *Node.js* - using [Volta](http://volta.sh) makes setup extremely easy!
+
+- _Node.js_ - using [Volta](http://volta.sh) makes setup extremely easy!
 - [Yarn](https://yarnpkg.com/en/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [TypeScript](https://www.typescriptlang.org/index.html#download-links) (should be globally installed)
